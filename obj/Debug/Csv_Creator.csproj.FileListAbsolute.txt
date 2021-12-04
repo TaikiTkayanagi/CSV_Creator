@@ -1,0 +1,7 @@
+C:\Users\81803\Documents\LocalProject\Csv_Creator\bin\Debug\Csv_Creator.exe.config
+C:\Users\81803\Documents\LocalProject\Csv_Creator\bin\Debug\Csv_Creator.exe
+C:\Users\81803\Documents\LocalProject\Csv_Creator\bin\Debug\Csv_Creator.pdb
+C:\Users\81803\Documents\LocalProject\Csv_Creator\obj\Debug\Csv_Creator.csprojAssemblyReference.cache
+C:\Users\81803\Documents\LocalProject\Csv_Creator\obj\Debug\Csv_Creator.csproj.CoreCompileInputs.cache
+C:\Users\81803\Documents\LocalProject\Csv_Creator\obj\Debug\Csv_Creator.exe
+C:\Users\81803\Documents\LocalProject\Csv_Creator\obj\Debug\Csv_Creator.pdb
